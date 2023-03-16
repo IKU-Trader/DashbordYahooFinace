@@ -5,8 +5,6 @@ Created on Fri Mar 10 10:23:54 2023
 @author: IKU-Trader
 """
 
-import sys 
-sys.path.append('../libs')
 import numpy as np
 import pandas as pd
 from datetime import datetime
