@@ -7,11 +7,13 @@ python 3.10
 
 # Install
 
-pip install pytz
-
 pip install dash
 
 pip install dash-bootstrap-components
+
+pip install plotly
+
+pip install pytz
 
 pip install yahoo_finance_api2
 
